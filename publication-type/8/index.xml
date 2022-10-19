@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Mert D. Pesé</title>
+    <link>www.mpese.com/publication-type/8/</link>
+      <atom:link href="www.mpese.com/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.mpese.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>8</title>
+      <link>www.mpese.com/publication-type/8/</link>
+    </image>
+    
+    <item>
+      <title>Automated CAN Message Translator</title>
+      <link>www.mpese.com/publication/patent3/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/patent3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection Systems and Methods</title>
+      <link>www.mpese.com/publication/patent2/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/patent2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and methods for preserving the privacy of collected vehicular data</title>
+      <link>www.mpese.com/publication/patent1/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/patent1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

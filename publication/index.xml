@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Mert D. Pesé</title>
+    <link>www.mpese.com/publication/</link>
+      <atom:link href="www.mpese.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/www.mpese.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>www.mpese.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Automated CAN Message Translator</title>
+      <link>www.mpese.com/publication/patent3/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/patent3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DETROIT: Data Collection, Translation and Sharing for Rapid Vehicular App Development</title>
+      <link>www.mpese.com/publication/detroit/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/detroit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bringing Practical Security to Vehicles</title>
+      <link>www.mpese.com/publication/thesis/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection Systems and Methods</title>
+      <link>www.mpese.com/publication/patent2/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/patent2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S2-CAN: Sufficiently Secure Controller Area Network</title>
+      <link>www.mpese.com/publication/s2can/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/s2can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems and methods for preserving the privacy of collected vehicular data</title>
+      <link>www.mpese.com/publication/patent1/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/patent1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPy: Car Steering Reveals Your Trip Route!</title>
+      <link>www.mpese.com/publication/spy/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/spy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Analysis of Android Automotive</title>
+      <link>www.mpese.com/publication/aaos_security/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/aaos_security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LibreCAN: Automated CAN Message Translator</title>
+      <link>www.mpese.com/publication/librecan/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/librecan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey of Automotive Privacy Regulations and Privacy-Related Attacks</title>
+      <link>www.mpese.com/publication/privacy_survey/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/privacy_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CarLab: Framework for Vehicular Data Collection and Processing</title>
+      <link>www.mpese.com/publication/carlab/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/carlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware Intrusion Detection in Automotive Control Systems</title>
+      <link>www.mpese.com/publication/caid/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/caid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HW/SW Co-Design of an Automotive Embedded Firewall</title>
+      <link>www.mpese.com/publication/firewall/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>www.mpese.com/publication/firewall/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
