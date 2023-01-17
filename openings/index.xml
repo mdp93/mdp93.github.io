@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Openings | Mert D. Pesé</title>
-    <link>/openings/</link>
-      <atom:link href="/openings/index.xml" rel="self" type="application/rss+xml" />
-    <description>Openings</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Openings</title>
-      <link>/openings/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Openings | Mert D. Pesé</title><link>https://www.mpese.com/openings/</link><atom:link href="https://www.mpese.com/openings/index.xml" rel="self" type="application/rss+xml"/><description>Openings</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://www.mpese.com/media/logo_huf15977578807dd7de37eba6a0ace3646_883281_300x300_fit_lanczos_3.png</url><title>Openings</title><link>https://www.mpese.com/openings/</link></image></channel></rss>
